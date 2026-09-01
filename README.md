@@ -45,5 +45,5 @@ Using global non-linear optimization  to minimize the $L_1$ residual norm across
 - **Parameter Bounds Check**:
   - $0^\circ < \theta = 30^\circ < 50^\circ$ 
   - $-0.05 < M = 0.03 < 0.05$ 
-  - $0 < X = 55 < 100$ ✅
-  - $6.05 \le t \le 59.995$ (within $6 < t < 60$) ✅
+  - $0 < X = 55 < 100$ 
+  - $6.05 \le t \le 59.995$ (within $6 < t < 60$) 
